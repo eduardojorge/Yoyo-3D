@@ -13,8 +13,6 @@ Bico (0.4mm Nozzie), Layer Height (0.25mm) e Infill Density (20%)
 Software usado Ultimaker Cura 4.8.0
 
 
-![Screenshot](yoyo3dv1.stl)
-
 ![Screenshot](yoyo.jpeg)
 
 
